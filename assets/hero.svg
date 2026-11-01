@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="t d">
+<title id="t">Awesome AI Dev Workflows</title>
+<desc id="d">A loop of eight software lifecycle stages (plan, understand, build, review, test, CI and ship, operate, maintain) resting on five foundations: context and instructions, orchestration, MCP and skills, sandboxes and permissions, evaluation and cost.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.55" r="0.5"><stop offset="0" stop-color="#6366f1" stop-opacity="0.28"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c4b5fd"/><stop offset="0.5" stop-color="#93c5fd"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.05"/></pattern>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker>
+</defs>
+<rect width="1280" height="720" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="720" rx="24" fill="url(#dots)"/>
+<ellipse cx="640" cy="392" rx="440" ry="208" fill="url(#glow)"/>
+<text x="640.0" y="74" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#title)">Awesome AI Dev Workflows</text>
+<text x="640.0" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">Tools, real configs, research and field reports for every stage of software delivery</text>
+<path d="M739.0,228.3 A440,168 0 0 1 873.2,249.5" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+<path d="M1013.1,303.0 A440,168 0 0 1 1068.7,354.2" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+<path d="M1068.7,429.8 A440,168 0 0 1 1013.1,481.0" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+<path d="M873.2,534.5 A440,168 0 0 1 739.0,555.7" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+<path d="M541.0,555.7 A440,168 0 0 1 406.8,534.5" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+<path d="M266.9,481.0 A440,168 0 0 1 211.3,429.8" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+<path d="M211.3,354.2 A440,168 0 0 1 266.9,303.0" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+<path d="M406.8,249.5 A440,168 0 0 1 541.0,228.3" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+<text x="640" y="378" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e2e8f0">From issue to production</text>
+<text x="640" y="410" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#e2e8f0">and back again</text>
+<text x="640" y="446" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#64748b">organized by the job you want done</text>
+<g>
+<rect x="542.0" y="197.0" width="196" height="54" rx="27" fill="#0f172a" stroke="#a78bfa" stroke-width="2.5"/>
+<circle cx="570.0" cy="224.0" r="17" fill="#a78bfa"/>
+<text x="570.0" y="229.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0b1020">01</text>
+<text x="598.0" y="231.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">Plan</text>
+</g>
+<g>
+<rect x="853.1" y="246.2" width="196" height="54" rx="27" fill="#0f172a" stroke="#60a5fa" stroke-width="2.5"/>
+<circle cx="881.1" cy="273.2" r="17" fill="#60a5fa"/>
+<text x="881.1" y="278.2" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0b1020">02</text>
+<text x="909.1" y="280.2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">Understand</text>
+</g>
+<g>
+<rect x="982.0" y="365.0" width="196" height="54" rx="27" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/>
+<circle cx="1010.0" cy="392.0" r="17" fill="#34d399"/>
+<text x="1010.0" y="397.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0b1020">03</text>
+<text x="1038.0" y="399.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">Build</text>
+</g>
+<g>
+<rect x="853.1" y="483.8" width="196" height="54" rx="27" fill="#0f172a" stroke="#fbbf24" stroke-width="2.5"/>
+<circle cx="881.1" cy="510.8" r="17" fill="#fbbf24"/>
+<text x="881.1" y="515.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0b1020">04</text>
+<text x="909.1" y="517.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">Review</text>
+</g>
+<g>
+<rect x="542.0" y="533.0" width="196" height="54" rx="27" fill="#0f172a" stroke="#f472b6" stroke-width="2.5"/>
+<circle cx="570.0" cy="560.0" r="17" fill="#f472b6"/>
+<text x="570.0" y="565.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0b1020">05</text>
+<text x="598.0" y="567.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">Test</text>
+</g>
+<g>
+<rect x="230.9" y="483.8" width="196" height="54" rx="27" fill="#0f172a" stroke="#fb923c" stroke-width="2.5"/>
+<circle cx="258.9" cy="510.8" r="17" fill="#fb923c"/>
+<text x="258.9" y="515.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0b1020">06</text>
+<text x="286.9" y="517.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">CI and Ship</text>
+</g>
+<g>
+<rect x="102.0" y="365.0" width="196" height="54" rx="27" fill="#0f172a" stroke="#f87171" stroke-width="2.5"/>
+<circle cx="130.0" cy="392.0" r="17" fill="#f87171"/>
+<text x="130.0" y="397.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0b1020">07</text>
+<text x="158.0" y="399.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">Operate</text>
+</g>
+<g>
+<rect x="230.9" y="246.2" width="196" height="54" rx="27" fill="#0f172a" stroke="#2dd4bf" stroke-width="2.5"/>
+<circle cx="258.9" cy="273.2" r="17" fill="#2dd4bf"/>
+<text x="258.9" y="278.2" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#0b1020">08</text>
+<text x="286.9" y="280.2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f1f5f9">Maintain</text>
+</g>
+<text x="640.0" y="612" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#64748b">FOUNDATIONS UNDER EVERY STAGE</text>
+<rect x="56.0" y="628" width="270.4" height="40" rx="10" fill="#1e293b" stroke="#334155"/>
+<text x="191.2" y="654" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#cbd5e1">Context and instructions</text>
+<rect x="340.4" y="628" width="164.8" height="40" rx="10" fill="#1e293b" stroke="#334155"/>
+<text x="422.8" y="654" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#cbd5e1">Orchestration</text>
+<rect x="519.2" y="628" width="174.4" height="40" rx="10" fill="#1e293b" stroke="#334155"/>
+<text x="606.4" y="654" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#cbd5e1">MCP and skills</text>
+<rect x="707.6" y="628" width="280.0" height="40" rx="10" fill="#1e293b" stroke="#334155"/>
+<text x="847.6" y="654" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#cbd5e1">Sandboxes and permissions</text>
+<rect x="1001.6" y="628" width="222.4" height="40" rx="10" fill="#1e293b" stroke="#334155"/>
+<text x="1112.8" y="654" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#cbd5e1">Evaluation and cost</text>
+</svg>
