@@ -205,6 +205,7 @@ Infrastructure as code, Kubernetes, production debugging and incident investigat
 * 📦 [AWS MCP servers](https://github.com/awslabs/mcp): MCP servers for AWS services, IaC and documentation.
 * 🛠️ [Grafana MCP server](https://github.com/grafana/mcp-grafana): Dashboards, data sources and incidents from Grafana.
 * 🛠️ [Sentry MCP](https://github.com/getsentry/toolkit): Sentry's MCP server for debugging issues from a coding agent.
+* 🛠️ [Kilobat CLI](https://github.com/seifip/kilobat-cli): Lets agents diagnose a Mac's connection to a website or API through a local MCP server.
 * 📘 [Sentry Seer](https://docs.sentry.io/product/ai-in-sentry/seer/) `$`: Root cause analysis and fix suggestions for application errors.
 
 ## Maintain the repository
