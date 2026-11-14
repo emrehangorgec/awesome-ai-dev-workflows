@@ -245,6 +245,7 @@ See also: [docs drift detection in Pydantic AI](#agents-in-ci).
 
 Running several agents at once, worktrees, subagents and task handoffs.
 
+* 🛠️ [Althar](https://github.com/AltharIDE/althar): Desktop ADE that assigns parallel tasks to coding agents and has a separate model review their changes.
 * 🛠️ [Container Use](https://github.com/dagger/container-use): Isolated container and git branch per agent, so several can work in parallel.
 * 🛠️ [Claude Squad](https://github.com/smtg-ai/claude-squad): Manages multiple terminal agents in separate worktrees.
 * 🛠️ [Vibe Kanban](https://github.com/BloopAI/vibe-kanban): Kanban board that dispatches tasks to coding agents.
